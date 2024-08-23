@@ -20,7 +20,7 @@ html{
     --red:#f45769;
 }
 body{
-    color: var(--text-color);
+    color: var(--red);
 
 }
 .back-video{
